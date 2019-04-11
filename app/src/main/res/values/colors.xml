@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8f5d15</color>
+    <color name="colorPrimaryDark">#2c2726</color>
+    <color name="colorAccent">#4bafac</color>
+    <color name="coloritems">#eae6e6</color>
+
+
+
+    <color name="colora">#42573b</color>
+    <color name="colorb">#2a2a2a</color>
+    <color name="colorc">#de0b0b</color>
+    <color name="colord">#ECA603</color>
+    <color name="colorf">#FEFEFE</color>
+    <color name="colorg">#84848a</color>
+    <color name="colorh">#d0b5f7</color>
+    <color name="colorj">#4bafac</color>
+
+
+    <array name="btncolor">
+
+        <item>#5FCC39</item>
+        <item>#FF5A30</item>
+        <item>#DE0B0B</item>
+        <item>#ECA603</item>
+        <item>#FEFEFE</item>
+        <item>#4BAFAC</item>
+        <item>#C79FFF</item>
+        <item>#0909FF</item>
+        <item>#5FCC39</item>
+        <item>#FF5A30</item>
+        <item>#DE0B0B</item>
+        <item>#ECA603</item>
+        <item>#FEFEFE</item>
+        <item>#4BAFAC</item>
+        <item>#C79FFF</item>
+        <item>#0909FF</item>
+        <item>#5FCC39</item>
+        <item>#FF5A30</item>
+        <item>#DE0B0B</item>
+        <item>#ECA603</item>
+        <item>#FEFEFE</item>
+        <item>#4BAFAC</item>
+        <item>#C79FFF</item>
+        <item>#0909FF</item>
+
+
+</array>
+
+</resources>

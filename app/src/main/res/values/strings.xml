@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">POS Westmoor</string>
+    <string name="app_title">BlueTooth Demo</string>
+
+    <!--main_activity-->
+    <string name="connect">Search for and connect a Bluetooth printer</string>
+    <string name="txt_content">&quot;&quot;</string>
+    <string name="btnSend">Send Data</string>
+    <string name="contentdescription"></string>
+    <string name="btn_prttable">Print Form</string>
+    <string name="Smallticketprinting">Small Ticket Printing</string>
+    <string name="btn_prtcode">Print 1D/2D Codebar</string>
+    <string name="btn_scqr">Generate QR Code Print</string>
+    <string name="btn_dyca">Turn on the camera</string>
+    <string name="input">Please enter a print!</string>
+    <string name="choose_printcoding"></string>
+    <string name="big5">BIG5</string>
+    <string name="thai">Thai</string>
+    <string name="kor">Korean</string>
+    <string name="gbk12">Simplified</string>
+
+    <string name="msg_getpermission">obtaining USB device access permissions success</string>
+    <string name="msg_conn_state">USB device can not access, please re-connect</string>
+
+    <!--  DeviceListActivityPrint -->
+    <string name="scanning">Scanning Device&#8230;</string>
+    <string name="select_device">Select the connected device</string>
+    <string name="Ready_To_Print">Ready To Print</string>
+
+    <string name="none_paired">No matching devices</string>
+    <string name="none_found">No device found</string>
+    <string name="title_paired_devices">Match equipment</string>
+    <string name="title_other_devices">Other useful equipment</string>
+    <string name="button_scan">Scanning device</string>
+
+    <!--  Message -->
+    <string name="msg_state">Input Error!</string>
+    <string name="empty1">Input is empty, in the text box to enter the content to be converted &#8230;</string>
+    <string name="empty">Input is empty</string>
+    <string name="not_connected">Please connect a Bluetooth printer</string>
+    <string name="bt_not_enabled_leaving">Bluetooth does not start, quit the program</string>
+    <string name="title_connecting">connecting…</string>
+    <string name="title_connected_to">connected: </string>
+    <string name="title_not_connected">Is not connected</string>
+    <string name="Connecting">It is connected to a Bluetooth printer</string>
+    <string name="msg_statev1">Without a picture</string>
+    <string name="strLang">en</string>
+    <string name="camer">No pictures</string>
+    <string name="msg_error">Input errors, please check!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="Starter">
+
+        <item>Select An Item</item>
+        <item>Mixed Platter</item>
+        <item>Chicken Liver</item>
+        <item>Aloo Bond</item>
+        <item>Panner Chatri</item>
+        <item>Desi Wrap</item>
+        <item>Chicken Chat</item>
+        <item>Jhinga Bhaji</item>
+        <item>Onion Bhaji</item>
+        <item>Tandoori Chicken</item>
+        <item>Tikka Chicken</item>
+        <item>Sheek Kebab</item>
+        <item>Chicken Pakora</item>
+        <item>Vag,Meat Somosa</item>
+        <item>BH.PR.PR</item>
+        <item>Garlic Chicken Tikka</item>
+
+
+    </string-array>
+
+
+    <string-array name="Vege_Main">
+
+        <item>Select An Item</item>
+        <item>Sag Paneer Malai"</item>
+        <item>Chana Masala</item>
+        <item>Aloo Gotri Masala</item>
+        <item>Vegetable Koria</item>
+        <item>Paneer Butter Masala</item>
+        <item>Sabji Jalfrezi</item>
+        <item>Aloo Palak</item>
+        <item>Aloo Morich</item>
+        <item>Dhall Sambar</item>
+        <item>Lal uri bisi/dall</item>
+
+    </string-array>
+
+    <string-array name="Vege_Side">
+
+        <item>Select An Item</item>
+        <item>Thaja Bindi</item>
+        <item>Garlic Mushroom Bhaji</item>
+        <item>Sobzi Chilli</item>
+        <item>Panner Chatri</item>
+        <item>Bomtray Aloo</item>
+        <item>Palak Sag</item>
+        <item>Aloo Gobi</item>
+        <item>Matar Paneer"</item>
+        <item>Tarka Dhall</item>
+        <item>Sag Paneer</item>
+        <item>Chana Sag</item>
+
+    </string-array>
+
+    <string-array name="Rice">
+        <item>Select An Item</item>
+        <item>Boilecl Rice</item>
+        <item>Pilau Rice</item>
+        <item>Vegetable Rice</item>
+        <item>Keema Rice</item>
+        <item>Coconut Rice</item>
+        <item>Mushroom Rice</item>
+        <item>Nut Rice</item>
+        <item>Special Rice</item>
+        <item>Chilli Rice</item>
+        <item>Onion Rice</item>
+        <item>Egg Rice</item>
+        <item>Garlic Rice</item>
+        <item>Tikka Rice</item>
+
+
+    </string-array>
+
+    <string-array name="Sundries">
+
+        <item>Select An Item</item>
+        <item>Nan</item>
+        <item>Garlic Nan</item>
+        <item>Peshawary Nan</item>
+        <item>Keema Nan</item>
+        <item>Cheese Nan</item>
+        <item>Tikka Nan</item>
+        <item>Tandoori Roti</item>
+        <item>Plain Pratha</item>
+        <item>Stuffed Pratha</item>
+        <item>Chapati</item>
+        <item>Puree</item>
+        <item>Papadoms</item>
+        <item>Spiced Papadom</item>
+        <item>Chips</item>
+        <item>Raitha</item>
+        <item>Mint Sauce</item>
+        <item>Lirne Pickle</item>
+        <item>Mango Chutney</item>
+        <item>Onion Salad</item>
+
+
+    </string-array>
+
+
+    <string-array name="Classics">
+
+        <item>Select An Item</item>
+
+        <item>---------------------------------------------------</item>
+        <item>----Madras----</item>
+        <item>Madras Chicken</item>
+        <item>Madras Lamb</item>
+        <item>Madras Vegetables</item>
+        <item>Madras Tikka Lamb</item>
+        <item>Madras Tikka Chicken</item>
+        <item>Madras Prawn</item>
+
+
+        <item>---------------------------------------------------</item>
+        <item>----Malayan----</item>
+        <item>Malayan Chicken</item>
+        <item>Malayan Lamb</item>
+        <item>Malayan Vegetables</item>
+        <item>Malayan Tikka Lamb</item>
+        <item>Malayan Tikka Chicken</item>
+        <item>Malayan Prawn</item>
+
+
+        <item>---------------------------------------------------</item>
+        <item>----Vindaloo----</item>
+        <item>Vindaloo Chicken</item>
+        <item>Vindaloo Lamb</item>
+        <item>Vindaloo Vegetables</item>
+        <item>Vindaloo Tikka Lamb</item>
+        <item>Vindaloo Tikka Chicken</item>
+        <item>Vindaloo Prawn</item>
+
+        <item>---------------------------------------------------</item>
+        <item>----Kashmir----</item>
+        <item>Kashmir Chicken</item>
+        <item>Kashmir Lamb</item>
+        <item>Kashmir Vegetables</item>
+        <item>Kashmir Tikka Lamb</item>
+        <item>Kashmir Tikka Chicken</item>
+        <item>Kashmir Prawn</item>
+
+        <item>---------------------------------------------------</item>
+        <item>----Rogon Josh----</item>
+        <item>Rogon Josh Chicken</item>
+        <item>Rogon Josh Lamb</item>
+        <item>Rogon Josh Vegetables</item>
+        <item>Rogon Tikka Lamb</item>
+        <item>Rogon Tikka Chicken</item>
+        <item>Rogon Prawn</item>
+
+
+        <item>---------------------------------------------------</item>
+        <item>----Pathia----</item>
+        <item>Pathia Chicken</item>
+        <item>Pathia Lamb</item>
+        <item>Pathia Vegetables</item>
+        <item>Pathia Tikka Lamb</item>
+        <item>Pathia Tikka Chicken</item>
+        <item>Pathia Prawn</item>
+
+
+        <item>---------------------------------------------------</item>
+        <item>----Dansak----</item>
+        <item>Dansak Chicken</item>
+        <item>Dansak Lamb</item>
+        <item>Dansak Vegetables</item>
+        <item>Dansak Tikka Lamb</item>
+        <item>Dansak Tikka Chicken</item>
+        <item>Dansak Prawn</item>
+
+        <item>---------------------------------------------------</item>
+        <item>----Korai----</item>
+        <item>Korai Chicken</item>
+        <item>Korai Lamb</item>
+        <item>Korai Vegetables</item>
+        <item>Korai Tikka Lamb</item>
+        <item>Korai Tikka Chicken</item>
+        <item>Korai Prawn</item>
+
+        <item>---------------------------------------------------</item>
+        <item>----Korma----</item>
+        <item>Korma Chicken</item>
+        <item>Korma Lamb</item>
+        <item>Korma Vegetables</item>
+        <item>Korma Tikka Lamb</item>
+        <item>Korma Tikka Chicken</item>
+        <item>Korma Prawn</item>
+
+
+        <item>---------------------------------------------------</item>
+        <item>----Balti----</item>
+        <item>Balti Chicken</item>
+        <item>Balti Lamb</item>
+        <item>Balti Vegetables</item>
+        <item>Balti Tikka Lamb</item>
+        <item>Balti Tikka Chicken</item>
+        <item>Balti Prawn</item>
+
+        <item>---------------------------------------------------</item>
+        <item>----Jal Frezi----</item>
+        <item>Jal Frezi Chicken</item>
+        <item>Jal Frezi Lamb</item>
+        <item>Jal Frezi Vegetables</item>
+        <item>Jal Frezi Tikka Lamb</item>
+        <item>Jal Frezi Tikka Chicken</item>
+        <item>Jal Frezi Prawn</item>
+
+        <item>---------------------------------------------------</item>
+        <item>----Jhall Bhuna----</item>
+        <item>Jhall Bhuna Chicken</item>
+        <item>Jhall Bhuna Lamb</item>
+        <item>Jhall Bhuna Vegetables</item>
+        <item>Jhall Bhuna Tikka Lamb</item>
+        <item>Jhall Bhuna Tikka Chicken</item>
+        <item>Jhall Bhuna Prawn</item>
+
+
+        <item>---------------------------------------------------</item>
+        <item>----Dupiaza----</item>
+        <item>Dupiaza Chicken</item>
+        <item>Dupiaza Lamb</item>
+        <item>Dupiaza Vegetables</item>
+        <item>Dupiaza Tikka Lamb</item>
+        <item>Dupiaza Tikka Chicken</item>
+        <item>Dupiaza Prawn</item>
+
+
+        <item>---------------------------------------------------</item>
+        <item>----Sag----</item>
+        <item>Sag Chicken</item>
+        <item>Sag Lamb</item>
+        <item>Sag Vegetables</item>
+        <item>Sag Tikka Lamb</item>
+        <item>Sag Tikka Chicken</item>
+        <item>Sag Prawn</item>
+
+        <item>---------------------------------------------------</item>
+        <item>----Bhuna----</item>
+        <item>Bhuna Chicken</item>
+        <item>Bhuna Lamb</item>
+        <item>Bhuna Vegetables</item>
+        <item>Bhuna Tikka Lamb</item>
+        <item>Bhuna Tikka Chicken</item>
+        <item>Bhuna Prawn</item>
+
+    </string-array>
+
+
+    <string-array name="Mossalla">
+
+        <item>Select An Item</item>
+        <item>Chicken Tikka</item>
+        <item>Lamb Tikka</item>
+        <item>Tandoori King Prawn</item>
+
+    </string-array>
+
+    <string-array name="Variation">
+
+        <item>Select An Item</item>
+        <item>Special Chicken</item>
+        <item>Lamb Dhoi</item>
+        <item>Methi Gost</item>
+        <item>Rajala Chicken</item>
+        <item>Ginger Chicken</item>
+        <item>Tikka Marinate Chicken</item>
+        <item>Kaleeya Lamb</item>
+        <item>Kaleeya Lamb</item>
+        <item>Lamb Pasanda</item>
+        <item>Chicken cylon</item>
+
+
+    </string-array>
+
+
+    <string-array name="Biryani">
+
+        <item>Select An Item</item>
+        <item>King prawn</item>
+        <item>Chicken Tikka</item>
+        <item>Prawn</item>
+        <item>Lamb</item>
+        <item>Tuna</item>
+        <item>Vegetable</item>
+        <item>Chicken</item>
+        <item>Mix</item>
+
+
+    </string-array>
+
+
+    <string-array name="Chefs_Signature">
+
+        <item>Select An Item</item>
+        <item>Kathmandu</item>
+        <item>Chicken Gizzard</item>
+        <item>Marati Alphoso</item>
+        <item>Chicken Tikka Chasni</item>
+        <item>Kabuli Bhuna</item>
+        <item>Shathkora Chicken</item>
+        <item>Murgh Tikka Jaipur</item>
+        <item>Chicken Podina</item>
+        <item>Apna Style Bhuna Chicken</item>
+        <item>Green Delight</item>
+        <item>Westmoor Special</item>
+        <item>Dilkush</item>
+        <item>Zalka Gosht</item>
+        <item>Naga Lamb</item>
+        <item>Mixed mnrghi</item>
+
+    </string-array>
+
+    <string-array name="Set_Main">
+
+        <item>Select An Item</item>
+        <item>Chefs_Signature</item>
+        <item>Biryani</item>
+        <item>Variation</item>
+        <item>Mossalla</item>
+        <item>Classics</item>
+        <item>Vege_Main</item>
+
+
+    </string-array>
+
+
+</resources>
